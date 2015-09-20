@@ -1,0 +1,40 @@
+Creating An Alias For Your Gmail Account
+
+Objectives: To set-up an alias for your Gmail Account To forward your notification email from Basecamp to your alias
+
+Purpose: To create a Role User (e.g Admin Role, TMO, Internal Director) in Basecamp accounts 
+          You can also use this on your personal gmail account which you use in basecamp.
+
+I. How to Create an Alias
+
+• Add a suffix to the main part of your email address. The way this works is you add ‘+alias’ to the main part of your email address.
+
+Example: The main part of my email address is new.exclamations@gmail.com To create an alias, I will add “+admin” to the main part of my email address. Thus, my alias account is new.exclamations+admin@gmail.com
+
+Any emails sent to this Alias will show up in the main inbox of the original email address.
+
+
+II. How to Add Role User in Basecamp Account.
+In order to do this task, you need to have the privilege to Add people in Basecamp Account (you may request Hiring Manager or Interal Director for access)
+
+• Log-in to a Basecamp Account
+• Click Everyone tab
+
+
+
+III. How to Change Your Basecamp Setting Email Notification
+
+• Log-In to Basecamp. 
+• Choose your Basecamp Account (new_os, secual, ancar, etc). 
+• Go to ME tab then click Your Basecamp Settings. screen shot 2015-09-19 at 4 34 18 pm
+
+
+• Under the “Your email address”, click Change, input your Alias email, then save the changes. screen shot 2015-09-19 at 4 35 17 pm
+
+• Repeat the process to your other basecamp accounts.
+
+
+Now you have successfully created an Alias email and changed the email notifications from basecamp to your Alias email.
+This is useful when you need to create Role User in Basecamp Accounts.
+
+When you log-in to your Gmail account, you can easily filter all basecamp notifications from your other emails. You can do this by typing your Alias in the Search window of your Gmail account, press enter, and your email list is now filtered.
